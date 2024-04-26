@@ -53,7 +53,7 @@ The project follows a standard structure for a Vite and React application. Here'
 ![Vite Modern Card App Demo](screen_shots/preview.gif)
 
 ### Screenshots
-![Vite Modern Card App Screenshot](screen_shots/vite_modern1.png)
+![Vite Modern Card App Screenshot](screen_shots/vite_image1.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern2.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern3.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern4.png)
