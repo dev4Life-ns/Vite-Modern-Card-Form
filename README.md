@@ -47,15 +47,16 @@ The project follows a standard structure for a Vite and React application. Here'
 - `src/data/`: This directory contains data that the application uses to populate the card components.
 - `package.json`: This file contains metadata about the project and its dependencies.
 
-## :framed_picture:  Demo & Screenshots
- 
-### Demo
-![Vite Modern Card App Demo](screen_shots/preview.gif)
+## :framed_picture: Screenshots
 
 ### Screenshots
 ![Vite Modern Card App Screenshot](screen_shots/vite_image1.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern2.png)
+![Vite Modern Card App Screenshot](vite_input1.png)
+
+![Vite Modern Card App Screenshot](vite_input_corrected.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern3.png)
+![Vite Modern Card App Screenshot](vite_reservation_error.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_image4.png)
 
 
