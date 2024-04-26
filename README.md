@@ -53,7 +53,7 @@ The project follows a standard structure for a Vite and React application. Here'
 ![Vite Modern Card App Screenshot](screen_shots/vite_image1.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern2.png)
 ![Vite Modern Card App Screenshot](vite_input1.png)
-
+![Vite Modern Card App Screenshot](vite_guestError1.png)
 ![Vite Modern Card App Screenshot](vite_input_corrected.png)
 ![Vite Modern Card App Screenshot](screen_shots/vite_modern3.png)
 ![Vite Modern Card App Screenshot](vite_reservation_error.png)
